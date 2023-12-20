@@ -16,6 +16,7 @@
 		"astro-blog",
 		"astro-b"
 	],
+	"homepage": "https://www.serendipitybox.xyz/",
 	"bugs": {
 		"url": "https://github.com/danielcgilibert/blog-template/issues"
 	},
